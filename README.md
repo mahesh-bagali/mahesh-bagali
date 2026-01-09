@@ -1,43 +1,10 @@
-`html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahesh Bagali</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f5f5f5;
-        }
-        .container {
-            padding: 2rem;
-        }
-        .name {
-            font-size: 2.5rem;
-            font-weight: bold;
-            margin-bottom: 0.5rem;
-        }
-        .title {
-            font-size: 1.2rem;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="name">Hi,👋 I'm Mahesh Bagali</div>
-        <div class="title">A passionate developer from India</div>
-    </div>
-</body>
-</html>
+``html
+<div align="center">
+  <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">Hi,👋 I'm Mahesh Bagali</h1>
+  <p style="font-size: 1rem; margin-top: 0;">A passionate developer from India</p>
+</div>
 ```
+
 <p align="center">
 <b>Hi<b>,👋 I'm <b>Mahesh Bagali</b> <br>
 A passionate developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px">
