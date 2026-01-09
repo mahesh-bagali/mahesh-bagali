@@ -1,7 +1,7 @@
 
 <p align="center">
-Hi, I am <b>Mahesh Bagali</b> <br>
-A passionate developer from India 🇮🇳
+Hi,👋 I am <b>Mahesh Bagali</b> <br>
+A passionate developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px">
 </p>
       
 
