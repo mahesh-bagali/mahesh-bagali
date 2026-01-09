@@ -1,6 +1,9 @@
 
-# Hi, I am an ASPIRING ENGINEER
-## BTech IS Student | Learning FastAPI & Backend<br>
+                     <p align="center">
+Hi, I am <b>Mahesh Bagali</b> <br>
+A passionate developer from India 🇮🇳
+</p>     
+                        
 
 
 ## 🌐 Socials:
