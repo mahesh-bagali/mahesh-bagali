@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I am an ASPIRING ENGINEER<br>
+
+# Hi, I am an ASPIRING ENGINEER
+## BTech IS Student | Learning FastAPI & Backend<br>
 
 
 ## 🌐 Socials:
