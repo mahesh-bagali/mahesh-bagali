@@ -1,9 +1,9 @@
 
-                     <p align="center">
+<p align="center">
 Hi, I am <b>Mahesh Bagali</b> <br>
 A passionate developer from India 🇮🇳
-</p>     
-                        
+</p>
+      
 
 
 ## 🌐 Socials:
