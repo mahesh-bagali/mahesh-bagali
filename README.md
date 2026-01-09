@@ -1,4 +1,11 @@
-
+<p align="center">
+  <span style="font-size: 48px;">👋</span> <br>
+  <span style="font-size: 36px; font-weight: bold;">Mahesh Bagali</span> <br>
+  <span style="font-size: 20px; color: #555;">
+    A passionate developer from India 
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px">
+  </span>
+</p>
 <p align="center">
 <b>Hi<b>,👋 I'm <b>Mahesh Bagali</b> <br>
 A passionate developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px">
