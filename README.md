@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">Hi,👋 I'm Mahesh Bagali</h1>
-  <p style="font-size: 1.70rem; margin-top: 0;">A passionate developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px"></p>
+  <p style="font-size: 1.75rem; margin-top: 0;">A passionate developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px"></p>
 </div>
 
 
